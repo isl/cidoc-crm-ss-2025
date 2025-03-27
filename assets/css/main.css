@@ -2530,11 +2530,12 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		position: relative;
+		position: absolute;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
 		background: #2b252c;
 		color: #fff;
+		width: 100%;
 	}
 
 		#footer .icon.circled {
