@@ -2352,6 +2352,26 @@ input, select, textarea {
 
 	}
 
+	.programme_overview_tbl{
+		border-collapse: collapse;
+		width: 70%;
+		margin-left: 20px auto;
+	}
+
+	.programme_overview_tbl td:first-child{
+		width: 20%;
+		border: 1px solid #000000;
+		padding: 8px;
+		text-align: left;
+	}
+
+	.programme_overview_tbl td:nth-child(2){
+		width: 80%;
+		border: 1px solid #000000;
+		padding: 8px;
+		text-align: left;
+	}
+
 /* Nav */
 
 	#nav {
